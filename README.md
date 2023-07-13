@@ -3,4 +3,4 @@
 
 ## 기술
 - 자바 : JAVA 17
-- 개발 툴 : SpringBoot 3.0.1
+- 개발 툴 : SpringBoot 3.1.1
